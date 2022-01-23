@@ -3,6 +3,7 @@
 1. prompts user to enter the decimal number (min 5 digit long)
 2. Ask whether the user wants to convert into its equivalent 
 3. prompt user to choose from 4 options for conversion
+###
             1. Decimal number
             2. The Binary number
             3. The Octal number
