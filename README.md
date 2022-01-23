@@ -1,8 +1,8 @@
-# equivalentConversions
+# Equivalent Conversions of decimal number
 ### Equivalent Conversions of decimal
 1. prompts user to enter the decimal number (min 5 digit long)
 2. Ask whether the user wants to convert into its equivalent 
-3. prompt user to choose from 4 options for conversion
+3. prompt user to choose from 4 options for conversion (converts ending 5 digits only)
 ###
             1. Decimal number
             2. The Binary number
